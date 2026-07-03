@@ -6,7 +6,7 @@
 
   <groupId>de.donut4gamer</groupId>
   <artifactId>BlockPreventer</artifactId>
-  <version>1.1.1</version>
+  <version>1.1.2</version>
   <packaging>jar</packaging>
 
   <name>BlockPreventer</name>
